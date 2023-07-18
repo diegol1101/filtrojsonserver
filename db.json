@@ -1,0 +1,58 @@
+{
+  "Departamentos": [
+    {
+      "nomDepartamento": "Santander",
+      "id": 1
+    },
+    {
+      "id": 2,
+      "nomDepartamento": "Cundinamarca"
+    },
+    {
+      "nomDepartamento": "Bolivar",
+      "id": 4
+    }
+  ],
+  "Ciudades": [
+    {
+      "id": 1,
+      "nomCiudad": "Bucaramanga",
+      "departamentoId": 1,
+      "imagen": "https://www.vanguardia.com/binrepository/716x477/0c0/0d0/none/12204/BHOS/foto2_6978428_20220504180421.jpg",
+      "lat": 4,
+      "lon": 72
+    },
+    {
+      "id": 2,
+      "nomCiudad": "Barrancabermeja",
+      "departamentoId": 1,
+      "imagen": "https://caracoltv.brightspotcdn.com/dims4/default/bce54b2/2147483647/strip/true/crop/1000x716+0+0/resize/1000x716!/quality/90/?url=http%3A%2F%2Fcaracol-brightspot.s3.amazonaws.com%2Fca%2Fd7%2Fbd1bcf2d41e492df1556ca4b3d24%2Fbarrancabermeja.jpg",
+      "lat": 4,
+      "lon": 72
+    },
+    {
+      "id": 3,
+      "nomCiudad": "Bogotá",
+      "departamentoId": 2,
+      "imagen": "https://www.ciencuadras.com/blog/wp-content/uploads/2022/06/Destacado_Que-tanto-sabes-de-tu-barrio.jpg",
+      "lat": 4,
+      "lon": 72
+    },
+    {
+      "id": 4,
+      "nomCiudad": "Cajicá",
+      "departamentoId": 2,
+      "imagen": "https://cajica.gov.co/wp-content/uploads/2020/11/cajica.jpg",
+      "lat": 4,
+      "lon": 72
+    },
+    {
+      "nomCiudad": "arauca",
+      "departamentoId": "3",
+      "imagen": "dewdwed",
+      "lat": "4322",
+      "lon": "543",
+      "id": 5
+    }
+  ]
+}

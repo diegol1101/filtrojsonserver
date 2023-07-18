@@ -1,0 +1,28 @@
+body{
+    background-color: black;
+}
+
+#titulo{
+    text-align: center;
+    margin-top: 10px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    background-color:transparent;
+    border-radius: 5px;
+    border-style:groove
+}
+
+#titulo2{
+    margin-top: 20px;
+    text-align: center;
+    
+}
+
+#accordionFlushExample{
+    background-image: url("https://www.bloomberglinea.com/resizer/e2l0fJxY1X-KS5AW6llfLjKF78c=/1440x0/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/bloomberglinea/XIQJOYTQ6RFBNLNUYDWUNPDDJY.jpg");
+} 
+
+.carousel-inner{
+    border-radius: 4px;
+    border-style:ridge
+}
+
